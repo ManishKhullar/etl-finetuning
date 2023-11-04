@@ -1,0 +1,4 @@
+webapp
+*pycache*
+transform/training_data/*
+.env
